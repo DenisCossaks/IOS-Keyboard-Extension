@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Expresser Smiley Keyboard Paid.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Expresser Smiley Keyboard.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Keyboard Paid.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Keyboard.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>453EEC7C19E59C7E00070A49</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>453EEC9619E59C8200070A49</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4550BE1419DA4C7D00616949</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4550BE2D19DA4C7D00616949</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4550BE4119DA4CE500616949</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>45C59B7419E39721007B0BD8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>45C59B8F19E39CA9007B0BD8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
